@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\bin\Debug\net6.0\Screen Sound.exe
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\bin\Debug\net6.0\Screen Sound.deps.json
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\bin\Debug\net6.0\Screen Sound.runtimeconfig.json
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\bin\Debug\net6.0\Screen Sound.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\bin\Debug\net6.0\Screen Sound.pdb
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\refint\Screen Sound.dll
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.pdb
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\Screen Sound.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\docs\Lightshot\Cursos\C#\Fundação Bradesco\codigos\interface gráfica\Screen Sound\Screen Sound\obj\Debug\net6.0\ref\Screen Sound.dll
