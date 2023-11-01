@@ -43,5 +43,3 @@ Este projeto tem como objetivo criar um sistema de registro e avalições de ban
  
 <h2>Guia</h2>
 
-coloque seu nome no campo de nome de usuario
-e a senha digite a seguinte: alohomora
